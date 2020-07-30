@@ -1,0 +1,2 @@
+# PTA-HAD
+a prior-based tensor approximation (PTA) is proposed for hyperspectral anomaly detection, in which HSI is decomposed into a background tensor and an anomaly tensor. In the background tensor, a low-rank prior is incorporated into spectral dimension by truncated nuclear norm regularization, and a piecewise- smooth prior on spatial dimension can be embedded by a linear total variation-norm regularization. For anomaly tensor, it is unfolded along spectral dimension coupled with spatial group sparse prior that can be represented by l 2,1 -norm regularization.
