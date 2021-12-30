@@ -9,4 +9,4 @@ Or Latex format
 
 @ARTICLE{9288702,  author={L. {Li} and W. {Li} and Y. {Qu} and C. {Zhao} and R. {Tao} and Q. {Du}},  journal={IEEE Transactions on Neural Networks and Learning Systems},   title={Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery},   year={2020},  volume={},  number={},  pages={1-14},  doi={10.1109/TNNLS.2020.3038659}}
 
-Any problem can contract authors by 1141017448@qq.com.
+Any problem can contract authors by 20192380@bistu.edu.cn.
